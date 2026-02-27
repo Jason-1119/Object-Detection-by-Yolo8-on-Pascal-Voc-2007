@@ -17,12 +17,8 @@ The workflow includes dataset conversion (VOC → YOLO format), GPU training on 
 ---
 
 ## 📂 Project Structure
-├── VOCdevkit2007/ # Original Pascal VOC dataset
-├── voc2007_yolo/ # Converted YOLO format dataset
-│ ├── images/
-│ └── labels/
-├── voc.yaml # Dataset configuration file
-├── yolov8n.pt # Pretrained weights
-├── convert_voc_to_yolo.py
-├── trainmodel.ipynb
-└── README.md
+voc.yaml # Dataset configuration file
+yolov8n.pt # Pretrained weights
+convert_voc_to_yolo.py
+trainmodel.ipynb
+README.md
