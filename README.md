@@ -3,6 +3,8 @@ This project implements an end-to-end object detection pipeline using YOLOv8 on 
 The workflow includes dataset conversion (VOC → YOLO format), GPU training on Google Colab, evaluation, and inference visualization.
 
 ---
+<img width="747" height="558" alt="image" src="https://github.com/user-attachments/assets/f6a7cf6e-617b-4d15-bc15-824397f619d9" />
+
 
 ## 🚀 Project Overview
 
