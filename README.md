@@ -1,4 +1,4 @@
-# Object-Detection-by-Yolo8-on-Pascal-Voc-2007
+# Object-Detection-by-Yolov8-on-Pascal-Voc-2007
 This project implements an end-to-end object detection pipeline using YOLOv8 on the Pascal VOC 2007 dataset.  
 The workflow includes dataset conversion (VOC → YOLO format), GPU training on Google Colab, evaluation, and inference visualization.
 
